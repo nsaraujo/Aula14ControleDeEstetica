@@ -1,0 +1,12 @@
+com\mycompany\mainestetica\Pagamento.class
+com\mycompany\mainestetica\PagamentoProxy.class
+com\mycompany\mainestetica\CorteCabelo.class
+com\mycompany\mainestetica\PagamentoReal.class
+com\mycompany\mainestetica\Servico.class
+com\mycompany\mainestetica\Cliente.class
+com\mycompany\mainestetica\EsteticaFacade.class
+com\mycompany\mainestetica\Desconto.class
+com\mycompany\mainestetica\Agendamento.class
+com\mycompany\mainestetica\HarmonizacaoFacial.class
+com\mycompany\mainestetica\MainEstetica.class
+com\mycompany\mainestetica\ServicoDecorator.class
